@@ -13,4 +13,4 @@ The dataset contains information about bank customers, including both active cli
 Tools Used
 Python
 Pandas
-Matplotlib / Seaborn
+Plotly
